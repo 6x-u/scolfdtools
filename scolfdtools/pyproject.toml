@@ -1,0 +1,7 @@
+[project]
+name = "scolfdtools"
+version = "1.0.0"
+description = "SCOLFDTOOLS - اداة تحويل وترجمة اللغات البرمجية"
+authors = ["mero <QP4RM@telegram>"]
+requires-python = ">=3.7"
+dependencies = []
